@@ -1,6 +1,6 @@
 # Auditoria de Fatura de Frete (SQL + Power Query + Excel)
 
-Projeto de portfólio que simula o trabalho de **conferir se as transportadoras cobraram o que estava combinado em contrato**.
+Projeto de portfólio que simula o trabalho de **conferir se as transportadoras cobraram o que estava contratado em contrato**.
 
 > **Todos os dados são fictícios**, gerados por script com semente fixa. Nenhuma empresa, preço ou fatura real foi usada.
 
