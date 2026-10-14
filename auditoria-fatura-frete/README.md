@@ -1,4 +1,4 @@
-# Auditoria de Fatura de Frete (SQL + Power Query + Excel)
+# Auditoria de Fatura de Frete (SQL + Power Query + Excel + Python)
 
 Projeto de portfólio que simula o trabalho de **conferir se as transportadoras cobraram o que estava contratado em contrato**.
 
