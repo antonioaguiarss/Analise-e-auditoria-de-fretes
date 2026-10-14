@@ -1,0 +1,11 @@
+rota_id;origem;destino;distancia_km
+R01;Campinas/SP;São Paulo/SP;100
+R02;Campinas/SP;Rio de Janeiro/RJ;500
+R03;Campinas/SP;Belo Horizonte/MG;590
+R04;Campinas/SP;Curitiba/PR;410
+R05;Campinas/SP;Porto Alegre/RS;1100
+R06;Campinas/SP;Salvador/BA;1960
+R07;Campinas/SP;Recife/PE;2650
+R08;Campinas/SP;Goiânia/GO;930
+R09;Curitiba/PR;São Paulo/SP;410
+R10;Curitiba/PR;Porto Alegre/RS;700

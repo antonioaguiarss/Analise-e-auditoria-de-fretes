@@ -1,0 +1,13 @@
+﻿numero_fatura;cte;transportadora;data_emissao;rota_id;origem;destino;peso_kg;valor_cobrado
+NF-100404;CTE-0000398;RodoFácil Transportes;2026-06-20;R07;Campinas/SP;Recife/PE;1835.0;10184.25
+NF-100592;CTE-0000584;RodoFácil Transportes;2026-09-12;R07;Campinas/SP;Recife/PE;602.7;3344.99
+NF-100023;CTE-0000023;Veloz Cargas;2026-01-15;R10;Curitiba/PR;Porto Alegre/RS;1214.7;2004.26
+NF-100339;CTE-0000336;TransLog Express;2026-05-28;R06;Campinas/SP;Salvador/BA;454.4;1894.85
+NF-100343;CTE-0000340;Atlântico Logística;2026-05-29;R02;Campinas/SP;Rio de Janeiro/RJ;1066.4;1333.0
+NF-100059;CTE-0000058;Veloz Cargas;2026-01-30;R10;Curitiba/PR;Porto Alegre/RS;558.4;921.36
+NF-100405;CTE-0000399;Veloz Cargas;2026-06-20;R09;Curitiba/PR;São Paulo/SP;784.7;839.63
+NF-100574;CTE-0000566;RodoFácil Transportes;2026-09-03;R05;Campinas/SP;Porto Alegre/RS;331.9;813.15
+NF-100430;CTE-0000424;Atlântico Logística;2026-07-01;R08;Campinas/SP;Goiânia/GO;205.7;434.03
+NF-100320;CTE-0000317;Norte Sul Fretes;2026-05-21;R02;Campinas/SP;Rio de Janeiro/RJ;340.5;425.62
+NF-100115;CTE-0000113;RodoFácil Transportes;2026-03-02;R05;Campinas/SP;Porto Alegre/RS;163.8;401.31
+NF-100367;CTE-0000364;Veloz Cargas;2026-06-07;R04;Campinas/SP;Curitiba/PR;98.8;120.0

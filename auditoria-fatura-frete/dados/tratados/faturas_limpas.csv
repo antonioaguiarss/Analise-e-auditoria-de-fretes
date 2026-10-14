@@ -1,0 +1,621 @@
+numero_fatura;cte;transportadora;data_emissao;origem;destino;rota_id;peso_kg;valor_cobrado
+NF-100001;CTE-0000001;TransLog Express;2026-01-01;Curitiba/PR;São Paulo/SP;R09;3648.4;3123.40
+NF-100002;CTE-0000002;Veloz Cargas;2026-01-01;Campinas/SP;Recife/PE;R07;798.0;4383.72
+NF-100003;CTE-0000003;RodoFácil Transportes;2026-01-01;Curitiba/PR;São Paulo/SP;R09;277.0;225.39
+NF-100004;CTE-0000004;RodoFácil Transportes;2026-01-02;Campinas/SP;Curitiba/PR;R04;237.1;192.55
+NF-100005;CTE-0000005;Atlântico Logística;2026-01-02;Campinas/SP;Curitiba/PR;R04;402.1;361.35
+NF-100006;CTE-0000006;RodoFácil Transportes;2026-01-03;Campinas/SP;Rio de Janeiro/RJ;R02;53.7;114.16
+NF-100007;CTE-0000007;Norte Sul Fretes;2026-01-04;Campinas/SP;Curitiba/PR;R04;631.6;497.49
+NF-100008;CTE-0000008;TransLog Express;2026-01-05;Campinas/SP;Porto Alegre/RS;R05;604.1;1183.92
+NF-100009;CTE-0000009;Veloz Cargas;2026-01-06;Campinas/SP;Recife/PE;R07;277.3;1354.12
+NF-100010;CTE-0000010;Atlântico Logística;2026-01-07;Campinas/SP;Belo Horizonte/MG;R03;1444.3;1734.62
+NF-100011;CTE-0000011;TransLog Express;2026-01-08;Campinas/SP;Belo Horizonte/MG;R03;517.4;591.51
+NF-100012;CTE-0000012;Norte Sul Fretes;2026-01-09;Campinas/SP;São Paulo/SP;R01;565.0;186.90
+NF-100013;CTE-0000013;TransLog Express;2026-01-10;Campinas/SP;São Paulo/SP;R01;2132.9;768.09
+NF-100014;CTE-0000014;RodoFácil Transportes;2026-01-10;Campinas/SP;Rio de Janeiro/RJ;R02;659.0;626.15
+NF-100015;CTE-0000015;TransLog Express;2026-01-11;Campinas/SP;Rio de Janeiro/RJ;R02;174.0;174.39
+NF-100016;CTE-0000016;Norte Sul Fretes;2026-01-12;Campinas/SP;Goiânia/GO;R08;273.0;487.35
+NF-100017;CTE-0000017;TransLog Express;2026-01-13;Campinas/SP;São Paulo/SP;R01;405.8;145.73
+NF-100018;CTE-0000018;RodoFácil Transportes;2026-01-14;Campinas/SP;Belo Horizonte/MG;R03;1670.8;1816.19
+NF-100019;CTE-0000019;Atlântico Logística;2026-01-14;Campinas/SP;Recife/PE;R07;805.8;4071.16
+NF-100020;CTE-0000020;Veloz Cargas;2026-01-15;Campinas/SP;Porto Alegre/RS;R05;399.7;861.81
+NF-100021;CTE-0000021;RodoFácil Transportes;2026-01-15;Campinas/SP;Goiânia/GO;R08;474.6;760.97
+NF-100022;CTE-0000022;Veloz Cargas;2026-01-15;Campinas/SP;Belo Horizonte/MG;R03;161.4;203.44
+NF-100023;CTE-0000023;Veloz Cargas;2026-01-15;Curitiba/PR;Porto Alegre/RS;R10;1214.7;2004.26
+NF-100024;CTE-0000024;Veloz Cargas;2026-01-16;Campinas/SP;Rio de Janeiro/RJ;R02;217.6;239.44
+NF-100025;CTE-0000025;Veloz Cargas;2026-01-17;Campinas/SP;Porto Alegre/RS;R05;119.7;258.24
+NF-100026;CTE-0000026;Veloz Cargas;2026-01-17;Campinas/SP;Porto Alegre/RS;R05;717.2;1697.86
+NF-100027;CTE-0000027;TransLog Express;2026-01-17;Curitiba/PR;São Paulo/SP;R09;179.3;159.85
+NF-100028;CTE-0000028;Veloz Cargas;2026-01-17;Campinas/SP;Goiânia/GO;R08;242.1;449.58
+NF-100029;CTE-0000022;Veloz Cargas;2026-01-18;Campinas/SP;Belo Horizonte/MG;R03;161.4;203.44
+NF-100030;CTE-0000029;Veloz Cargas;2026-01-18;Campinas/SP;Salvador/BA;R06;231.5;849.63
+NF-100031;CTE-0000030;TransLog Express;2026-01-18;Campinas/SP;Porto Alegre/RS;R05;382.9;750.78
+NF-100032;CTE-0000031;Norte Sul Fretes;2026-01-18;Campinas/SP;Goiânia/GO;R08;611.9;950.00
+NF-100033;CTE-0000032;TransLog Express;2026-01-18;Campinas/SP;São Paulo/SP;R01;309.6;111.82
+NF-100034;CTE-0000033;RodoFácil Transportes;2026-01-18;Campinas/SP;Rio de Janeiro/RJ;R02;1206.8;1146.62
+NF-100035;CTE-0000034;Norte Sul Fretes;2026-01-18;Campinas/SP;São Paulo/SP;R01;318.2;99.67
+NF-100036;CTE-0000035;Norte Sul Fretes;2026-01-19;Campinas/SP;Recife/PE;R07;993.1;4056.93
+NF-100037;CTE-0000036;RodoFácil Transportes;2026-01-19;Campinas/SP;Curitiba/PR;R04;1035.7;842.40
+NF-100038;CTE-0000037;TransLog Express;2026-01-21;Campinas/SP;São Paulo/SP;R01;266.6;96.11
+NF-100039;CTE-0000038;Atlântico Logística;2026-01-21;Curitiba/PR;Porto Alegre/RS;R10;75.2;151.57
+NF-100040;CTE-0000039;RodoFácil Transportes;2026-01-21;Campinas/SP;Curitiba/PR;R04;384.2;312.14
+NF-100041;CTE-0000040;RodoFácil Transportes;2026-01-22;Campinas/SP;Goiânia/GO;R08;692.1;1110.07
+NF-100042;CTE-0000041;RodoFácil Transportes;2026-01-22;Curitiba/PR;Porto Alegre/RS;R10;1010.9;1267.44
+NF-100043;CTE-0000042;RodoFácil Transportes;2026-01-23;Campinas/SP;Belo Horizonte/MG;R03;1058.7;1150.97
+NF-100044;CTE-0000043;RodoFácil Transportes;2026-01-24;Campinas/SP;São Paulo/SP;R01;1647.9;563.84
+NF-100045;CTE-0000044;Veloz Cargas;2026-01-24;Campinas/SP;Goiânia/GO;R08;688.4;1490.28
+NF-100046;CTE-0000045;TransLog Express;2026-01-25;Campinas/SP;São Paulo/SP;R01;255.0;92.18
+NF-100047;CTE-0000046;Veloz Cargas;2026-01-25;Campinas/SP;Recife/PE;R07;573.8;2802.13
+NF-100048;CTE-0000047;RodoFácil Transportes;2026-01-25;Curitiba/PR;São Paulo/SP;R09;1444.0;1174.63
+NF-100049;CTE-0000048;Norte Sul Fretes;2026-01-26;Campinas/SP;Curitiba/PR;R04;284.1;223.69
+NF-100050;CTE-0000049;TransLog Express;2026-01-26;Campinas/SP;São Paulo/SP;R01;291.2;104.92
+NF-100051;CTE-0000050;TransLog Express;2026-01-26;Campinas/SP;Curitiba/PR;R04;148.0;118.41
+NF-100052;CTE-0000051;Atlântico Logística;2026-01-26;Campinas/SP;Porto Alegre/RS;R05;291.9;600.39
+NF-100053;CTE-0000052;RodoFácil Transportes;2026-01-26;Campinas/SP;Curitiba/PR;R04;545.0;443.11
+NF-100054;CTE-0000053;RodoFácil Transportes;2026-01-28;Curitiba/PR;Porto Alegre/RS;R10;161.5;202.60
+NF-100055;CTE-0000054;RodoFácil Transportes;2026-01-29;Campinas/SP;Belo Horizonte/MG;R03;384.9;459.72
+NF-100056;CTE-0000055;TransLog Express;2026-01-30;Campinas/SP;Belo Horizonte/MG;R03;1214.4;1389.16
+NF-100057;CTE-0000056;Norte Sul Fretes;2026-01-30;Campinas/SP;Curitiba/PR;R04;241.9;190.83
+NF-100058;CTE-0000057;Atlântico Logística;2026-01-30;Curitiba/PR;Porto Alegre/RS;R10;973.2;1468.40
+NF-100059;CTE-0000058;Veloz Cargas;2026-01-30;Curitiba/PR;Porto Alegre/RS;R10;558.4;921.36
+NF-100060;CTE-0000059;RodoFácil Transportes;2026-01-31;Curitiba/PR;São Paulo/SP;R09;199.7;162.37
+NF-100061;CTE-0000060;TransLog Express;2026-01-31;Campinas/SP;Curitiba/PR;R04;129.1;110.77
+NF-100062;CTE-0000061;Veloz Cargas;2026-01-31;Campinas/SP;Porto Alegre/RS;R05;2187.7;5646.19
+NF-100063;CTE-0000062;Norte Sul Fretes;2026-02-01;Curitiba/PR;São Paulo/SP;R09;953.5;750.93
+NF-100064;CTE-0000063;Veloz Cargas;2026-02-02;Campinas/SP;Rio de Janeiro/RJ;R02;275.5;303.14
+NF-100065;CTE-0000064;Veloz Cargas;2026-02-03;Campinas/SP;Rio de Janeiro/RJ;R02;1004.7;1105.39
+NF-100066;CTE-0000065;TransLog Express;2026-02-05;Campinas/SP;São Paulo/SP;R01;2042.1;734.99
+NF-100067;CTE-0000066;RodoFácil Transportes;2026-02-05;Campinas/SP;Belo Horizonte/MG;R03;372.3;404.72
+NF-100068;CTE-0000067;TransLog Express;2026-02-05;Curitiba/PR;São Paulo/SP;R09;2073.3;1774.93
+NF-100069;CTE-0000068;TransLog Express;2026-02-06;Campinas/SP;São Paulo/SP;R01;467.2;167.89
+NF-100070;CTE-0000069;Veloz Cargas;2026-02-07;Campinas/SP;Rio de Janeiro/RJ;R02;554.2;609.33
+NF-100071;CTE-0000070;TransLog Express;2026-02-07;Campinas/SP;Rio de Janeiro/RJ;R02;237.3;237.26
+NF-100072;CTE-0000071;Norte Sul Fretes;2026-02-07;Curitiba/PR;São Paulo/SP;R09;387.0;304.64
+NF-100073;CTE-0000072;Atlântico Logística;2026-02-07;Campinas/SP;Salvador/BA;R06;405.2;1419.40
+NF-100074;CTE-0000073;TransLog Express;2026-02-08;Campinas/SP;Rio de Janeiro/RJ;R02;169.8;170.16
+NF-100075;CTE-0000074;RodoFácil Transportes;2026-02-08;Curitiba/PR;São Paulo/SP;R09;1005.3;817.18
+NF-100076;CTE-0000075;TransLog Express;2026-02-09;Campinas/SP;Curitiba/PR;R04;758.0;648.72
+NF-100077;CTE-0000076;RodoFácil Transportes;2026-02-09;Curitiba/PR;Porto Alegre/RS;R10;558.6;753.52
+NF-100078;CTE-0000077;RodoFácil Transportes;2026-02-09;Curitiba/PR;São Paulo/SP;R09;513.5;417.90
+NF-100079;CTE-0000078;TransLog Express;2026-02-10;Campinas/SP;Rio de Janeiro/RJ;R02;141.9;141.56
+NF-100080;CTE-0000079;TransLog Express;2026-02-10;Curitiba/PR;São Paulo/SP;R09;256.4;219.62
+NF-100081;CTE-0000080;RodoFácil Transportes;2026-02-10;Curitiba/PR;Porto Alegre/RS;R10;429.8;538.86
+NF-100082;CTE-0000081;Norte Sul Fretes;2026-02-11;Campinas/SP;Salvador/BA;R06;571.8;1754.79
+NF-100083;CTE-0000082;Atlântico Logística;2026-02-13;Campinas/SP;Curitiba/PR;R04;182.5;195.58
+NF-100084;CTE-0000083;Veloz Cargas;2026-02-13;Campinas/SP;Porto Alegre/RS;R05;1390.1;3367.53
+NF-100085;CTE-0000084;RodoFácil Transportes;2026-02-13;Campinas/SP;São Paulo/SP;R01;3493.8;1194.92
+NF-100086;CTE-0000085;Atlântico Logística;2026-02-13;Campinas/SP;Recife/PE;R07;993.2;4875.95
+NF-100087;CTE-0000086;Norte Sul Fretes;2026-02-13;Campinas/SP;Salvador/BA;R06;496.9;1524.83
+NF-100088;CTE-0000087;RodoFácil Transportes;2026-02-13;Campinas/SP;Goiânia/GO;R08;307.5;493.34
+NF-100089;CTE-0000088;Atlântico Logística;2026-02-13;Campinas/SP;Porto Alegre/RS;R05;725.5;1641.98
+NF-100090;CTE-0000089;TransLog Express;2026-02-14;Campinas/SP;Rio de Janeiro/RJ;R02;205.3;186.48
+NF-100091;CTE-0000090;Veloz Cargas;2026-02-16;Campinas/SP;Salvador/BA;R06;455.7;1782.16
+NF-100092;CTE-0000091;RodoFácil Transportes;2026-02-16;Curitiba/PR;São Paulo/SP;R09;706.4;574.41
+NF-100093;CTE-0000092;Veloz Cargas;2026-02-16;Campinas/SP;Rio de Janeiro/RJ;R02;3403.1;3743.46
+NF-100094;CTE-0000093;Norte Sul Fretes;2026-02-17;Curitiba/PR;São Paulo/SP;R09;951.8;749.67
+NF-100095;CTE-0000094;RodoFácil Transportes;2026-02-19;Campinas/SP;Rio de Janeiro/RJ;R02;1738.3;1651.41
+NF-100096;CTE-0000095;Veloz Cargas;2026-02-19;Campinas/SP;Rio de Janeiro/RJ;R02;512.0;664.44
+NF-100097;CTE-0000096;Norte Sul Fretes;2026-02-19;Campinas/SP;Goiânia/GO;R08;221.3;343.59
+NF-100098;CTE-0000097;TransLog Express;2026-02-20;Campinas/SP;Porto Alegre/RS;R05;181.0;354.53
+NF-100099;CTE-0000098;Norte Sul Fretes;2026-02-20;Campinas/SP;Goiânia/GO;R08;1652.5;2566.41
+NF-100100;CTE-0000099;TransLog Express;2026-02-21;Campinas/SP;Curitiba/PR;R04;694.8;594.83
+NF-100101;CTE-0000100;Veloz Cargas;2026-02-22;Campinas/SP;Belo Horizonte/MG;R03;335.5;445.17
+NF-100102;CTE-0000101;TransLog Express;2026-02-25;Curitiba/PR;São Paulo/SP;R09;408.0;349.22
+NF-100103;CTE-0000102;RodoFácil Transportes;2026-02-25;Campinas/SP;Goiânia/GO;R08;448.0;718.50
+NF-100104;CTE-0000103;TransLog Express;2026-02-25;Campinas/SP;Porto Alegre/RS;R05;260.7;510.94
+NF-100105;CTE-0000104;RodoFácil Transportes;2026-02-26;Campinas/SP;Belo Horizonte/MG;R03;278.9;302.97
+NF-100106;CTE-0000105;RodoFácil Transportes;2026-02-27;Campinas/SP;Goiânia/GO;R08;110.4;177.04
+NF-100107;CTE-0000106;RodoFácil Transportes;2026-02-27;Campinas/SP;Curitiba/PR;R04;1436.5;1109.13
+NF-100108;CTE-0000107;Atlântico Logística;2026-02-27;Campinas/SP;Belo Horizonte/MG;R03;803.3;965.02
+NF-100109;CTE-0000108;Veloz Cargas;2026-02-28;Campinas/SP;Rio de Janeiro/RJ;R02;903.2;993.33
+NF-100110;CTE-0000101;TransLog Express;2026-03-01;Curitiba/PR;São Paulo/SP;R09;408.0;349.22
+NF-100111;CTE-0000109;RodoFácil Transportes;2026-03-01;Campinas/SP;Curitiba/PR;R04;271.7;220.62
+NF-100112;CTE-0000110;TransLog Express;2026-03-01;Campinas/SP;Porto Alegre/RS;R05;209.8;410.84
+NF-100113;CTE-0000111;TransLog Express;2026-03-02;Curitiba/PR;São Paulo/SP;R09;103.7;109.20
+NF-100114;CTE-0000112;TransLog Express;2026-03-02;Campinas/SP;Porto Alegre/RS;R05;517.4;1013.87
+NF-100115;CTE-0000113;RodoFácil Transportes;2026-03-02;Campinas/SP;Porto Alegre/RS;R05;163.8;401.31
+NF-100116;CTE-0000114;Norte Sul Fretes;2026-03-03;Campinas/SP;Recife/PE;R07;2402.9;10336.73
+NF-100117;CTE-0000115;TransLog Express;2026-03-03;Campinas/SP;Belo Horizonte/MG;R03;1413.3;1616.45
+NF-100118;CTE-0000116;RodoFácil Transportes;2026-03-03;Curitiba/PR;Porto Alegre/RS;R10;1031.1;1218.26
+NF-100119;CTE-0000117;Veloz Cargas;2026-03-07;Campinas/SP;Rio de Janeiro/RJ;R02;1652.8;1818.32
+NF-100120;CTE-0000118;Veloz Cargas;2026-03-08;Campinas/SP;Belo Horizonte/MG;R03;153.7;205.89
+NF-100121;CTE-0000119;Norte Sul Fretes;2026-03-08;Campinas/SP;Salvador/BA;R06;143.3;460.61
+NF-100122;CTE-0000120;Veloz Cargas;2026-03-09;Campinas/SP;Goiânia/GO;R08;200.8;395.64
+NF-100123;CTE-0000121;Atlântico Logística;2026-03-09;Campinas/SP;Salvador/BA;R06;511.7;1792.03
+NF-100124;CTE-0000122;TransLog Express;2026-03-09;Campinas/SP;São Paulo/SP;R01;665.8;262.45
+NF-100125;CTE-0000123;TransLog Express;2026-03-09;Campinas/SP;Curitiba/PR;R04;471.2;403.02
+NF-100126;CTE-0000124;Atlântico Logística;2026-03-09;Campinas/SP;Belo Horizonte/MG;R03;63.5;137.43
+NF-100127;CTE-0000125;Veloz Cargas;2026-03-10;Campinas/SP;Salvador/BA;R06;1365.0;5339.59
+NF-100128;CTE-0000126;TransLog Express;2026-03-10;Curitiba/PR;São Paulo/SP;R09;708.7;606.39
+NF-100129;CTE-0000127;Atlântico Logística;2026-03-10;Campinas/SP;Porto Alegre/RS;R05;440.8;907.08
+NF-100130;CTE-0000128;Veloz Cargas;2026-03-11;Campinas/SP;Recife/PE;R07;150.4;734.77
+NF-100131;CTE-0000129;TransLog Express;2026-03-12;Curitiba/PR;São Paulo/SP;R09;3827.2;3276.20
+NF-100132;CTE-0000130;TransLog Express;2026-03-12;Campinas/SP;Rio de Janeiro/RJ;R02;874.8;874.50
+NF-100133;CTE-0000131;Atlântico Logística;2026-03-12;Campinas/SP;Recife/PE;R07;469.8;2190.56
+NF-100134;CTE-0000132;RodoFácil Transportes;2026-03-12;Campinas/SP;Belo Horizonte/MG;R03;186.8;203.31
+NF-100135;CTE-0000133;Veloz Cargas;2026-03-13;Campinas/SP;Salvador/BA;R06;2087.3;7659.22
+NF-100136;CTE-0000134;RodoFácil Transportes;2026-03-13;Campinas/SP;Goiânia/GO;R08;1475.7;2366.46
+NF-100137;CTE-0000135;RodoFácil Transportes;2026-03-13;Curitiba/PR;Porto Alegre/RS;R10;860.7;1079.08
+NF-100138;CTE-0000123;TransLog Express;2026-03-14;Campinas/SP;Curitiba/PR;R04;471.2;403.02
+NF-100139;CTE-0000136;TransLog Express;2026-03-15;Curitiba/PR;São Paulo/SP;R09;8000.0;6848.05
+NF-100140;CTE-0000137;TransLog Express;2026-03-15;Campinas/SP;Curitiba/PR;R04;873.0;747.21
+NF-100141;CTE-0000138;RodoFácil Transportes;2026-03-16;Campinas/SP;Curitiba/PR;R04;49.4;103.75
+NF-100142;CTE-0000139;Veloz Cargas;2026-03-16;Campinas/SP;Porto Alegre/RS;R05;827.0;1956.53
+NF-100143;CTE-0000140;RodoFácil Transportes;2026-03-16;Curitiba/PR;Porto Alegre/RS;R10;312.9;392.55
+NF-100144;CTE-0000141;TransLog Express;2026-03-16;Campinas/SP;São Paulo/SP;R01;141.3;71.75
+NF-100145;CTE-0000142;Veloz Cargas;2026-03-16;Campinas/SP;Salvador/BA;R06;146.5;537.38
+NF-100146;CTE-0000143;Norte Sul Fretes;2026-03-16;Campinas/SP;Curitiba/PR;R04;88.1;100.40
+NF-100147;CTE-0000144;Veloz Cargas;2026-03-16;Campinas/SP;Rio de Janeiro/RJ;R02;2541.6;3319.30
+NF-100148;CTE-0000145;TransLog Express;2026-03-17;Campinas/SP;Belo Horizonte/MG;R03;440.0;503.25
+NF-100149;CTE-0000146;RodoFácil Transportes;2026-03-17;Curitiba/PR;Porto Alegre/RS;R10;305.8;383.23
+NF-100150;CTE-0000147;Norte Sul Fretes;2026-03-17;Campinas/SP;Goiânia/GO;R08;181.1;281.64
+NF-100151;CTE-0000148;RodoFácil Transportes;2026-03-18;Campinas/SP;Curitiba/PR;R04;1286.6;1046.04
+NF-100152;CTE-0000149;RodoFácil Transportes;2026-03-18;Campinas/SP;Curitiba/PR;R04;131.9;107.47
+NF-100153;CTE-0000150;TransLog Express;2026-03-18;Curitiba/PR;São Paulo/SP;R09;472.4;404.31
+NF-100154;CTE-0000151;TransLog Express;2026-03-19;Campinas/SP;São Paulo/SP;R01;1589.5;571.89
+NF-100155;CTE-0000152;RodoFácil Transportes;2026-03-19;Curitiba/PR;Porto Alegre/RS;R10;244.7;306.78
+NF-100156;CTE-0000153;TransLog Express;2026-03-20;Campinas/SP;Curitiba/PR;R04;692.7;592.88
+NF-100157;CTE-0000154;Norte Sul Fretes;2026-03-20;Campinas/SP;Recife/PE;R07;338.9;1384.71
+NF-100158;CTE-0000155;RodoFácil Transportes;2026-03-21;Campinas/SP;Belo Horizonte/MG;R03;76.8;123.94
+NF-100159;CTE-0000156;Norte Sul Fretes;2026-03-21;Curitiba/PR;São Paulo/SP;R09;1165.9;917.88
+NF-100160;CTE-0000157;TransLog Express;2026-03-21;Campinas/SP;Rio de Janeiro/RJ;R02;168.0;168.21
+NF-100161;CTE-0000158;RodoFácil Transportes;2026-03-21;Curitiba/PR;São Paulo/SP;R09;954.2;776.06
+NF-100162;CTE-0000159;TransLog Express;2026-03-21;Campinas/SP;Belo Horizonte/MG;R03;395.2;452.30
+NF-100163;CTE-0000160;Norte Sul Fretes;2026-03-22;Campinas/SP;Goiânia/GO;R08;122.7;200.25
+NF-100164;CTE-0000161;TransLog Express;2026-03-22;Campinas/SP;Belo Horizonte/MG;R03;399.8;457.21
+NF-100165;CTE-0000162;RodoFácil Transportes;2026-03-22;Campinas/SP;Goiânia/GO;R08;447.9;718.65
+NF-100166;CTE-0000163;RodoFácil Transportes;2026-03-23;Campinas/SP;Goiânia/GO;R08;312.7;501.42
+NF-100167;CTE-0000164;TransLog Express;2026-03-24;Campinas/SP;São Paulo/SP;R01;187.2;72.36
+NF-100168;CTE-0000165;Atlântico Logística;2026-03-24;Campinas/SP;Curitiba/PR;R04;137.9;142.21
+NF-100169;CTE-0000166;TransLog Express;2026-03-24;Campinas/SP;Porto Alegre/RS;R05;154.9;303.92
+NF-100170;CTE-0000167;TransLog Express;2026-03-24;Curitiba/PR;São Paulo/SP;R09;140.4;120.41
+NF-100171;CTE-0000168;Veloz Cargas;2026-03-24;Campinas/SP;Rio de Janeiro/RJ;R02;307.9;338.93
+NF-100172;CTE-0000169;RodoFácil Transportes;2026-03-24;Curitiba/PR;Porto Alegre/RS;R10;321.1;459.87
+NF-100173;CTE-0000170;TransLog Express;2026-03-26;Campinas/SP;Curitiba/PR;R04;423.9;362.89
+NF-100174;CTE-0000171;Atlântico Logística;2026-03-26;Curitiba/PR;Porto Alegre/RS;R10;2297.4;3529.93
+NF-100175;CTE-0000172;TransLog Express;2026-03-26;Curitiba/PR;São Paulo/SP;R09;704.2;602.69
+NF-100176;CTE-0000173;TransLog Express;2026-03-26;Curitiba/PR;São Paulo/SP;R09;2049.8;1754.57
+NF-100177;CTE-0000174;RodoFácil Transportes;2026-03-26;Campinas/SP;Curitiba/PR;R04;135.5;109.98
+NF-100178;CTE-0000175;Atlântico Logística;2026-03-26;Campinas/SP;Recife/PE;R07;782.1;3645.88
+NF-100179;CTE-0000176;Veloz Cargas;2026-03-27;Campinas/SP;Porto Alegre/RS;R05;2246.7;4843.62
+NF-100180;CTE-0000177;Norte Sul Fretes;2026-03-27;Campinas/SP;Curitiba/PR;R04;483.7;380.77
+NF-100181;CTE-0000178;Atlântico Logística;2026-03-27;Campinas/SP;Salvador/BA;R06;870.8;3050.06
+NF-100182;CTE-0000179;RodoFácil Transportes;2026-03-27;Campinas/SP;Curitiba/PR;R04;200.2;162.88
+NF-100183;CTE-0000180;RodoFácil Transportes;2026-03-27;Campinas/SP;São Paulo/SP;R01;1472.1;503.37
+NF-100184;CTE-0000181;RodoFácil Transportes;2026-03-27;Campinas/SP;São Paulo/SP;R01;1344.0;459.65
+NF-100185;CTE-0000182;RodoFácil Transportes;2026-03-28;Campinas/SP;Belo Horizonte/MG;R03;82.8;124.28
+NF-100186;CTE-0000183;Veloz Cargas;2026-03-28;Campinas/SP;Recife/PE;R07;690.9;3374.09
+NF-100187;CTE-0000184;TransLog Express;2026-03-28;Campinas/SP;Belo Horizonte/MG;R03;144.6;165.17
+NF-100188;CTE-0000185;TransLog Express;2026-03-28;Campinas/SP;Porto Alegre/RS;R05;695.4;1362.80
+NF-100189;CTE-0000186;RodoFácil Transportes;2026-03-28;Campinas/SP;Curitiba/PR;R04;94.4;103.69
+NF-100190;CTE-0000187;Veloz Cargas;2026-03-29;Campinas/SP;Belo Horizonte/MG;R03;136.4;171.55
+NF-100191;CTE-0000188;TransLog Express;2026-03-29;Campinas/SP;Belo Horizonte/MG;R03;1666.2;1906.40
+NF-100192;CTE-0000189;TransLog Express;2026-03-29;Campinas/SP;Rio de Janeiro/RJ;R02;40.1;120.36
+NF-100193;CTE-0000190;TransLog Express;2026-03-30;Campinas/SP;Rio de Janeiro/RJ;R02;576.8;576.60
+NF-100194;CTE-0000191;TransLog Express;2026-03-31;Campinas/SP;São Paulo/SP;R01;432.4;156.00
+NF-100195;CTE-0000192;Atlântico Logística;2026-03-31;Curitiba/PR;Porto Alegre/RS;R10;1240.3;1718.75
+NF-100196;CTE-0000193;Atlântico Logística;2026-03-31;Campinas/SP;Belo Horizonte/MG;R03;225.7;318.23
+NF-100197;CTE-0000194;RodoFácil Transportes;2026-03-31;Curitiba/PR;Porto Alegre/RS;R10;146.1;183.17
+NF-100198;CTE-0000195;Veloz Cargas;2026-03-31;Campinas/SP;Goiânia/GO;R08;1386.6;2574.50
+NF-100199;CTE-0000196;Veloz Cargas;2026-04-02;Campinas/SP;Goiânia/GO;R08;502.5;1022.95
+NF-100200;CTE-0000197;TransLog Express;2026-04-02;Campinas/SP;São Paulo/SP;R01;1377.4;495.92
+NF-100201;CTE-0000198;TransLog Express;2026-04-02;Campinas/SP;Curitiba/PR;R04;237.3;203.26
+NF-100202;CTE-0000199;TransLog Express;2026-04-03;Campinas/SP;Porto Alegre/RS;R05;919.3;1802.19
+NF-100203;CTE-0000200;RodoFácil Transportes;2026-04-03;Campinas/SP;Belo Horizonte/MG;R03;1141.9;1241.12
+NF-100204;CTE-0000201;RodoFácil Transportes;2026-04-03;Curitiba/PR;São Paulo/SP;R09;146.1;118.61
+NF-100205;CTE-0000202;RodoFácil Transportes;2026-04-04;Campinas/SP;Belo Horizonte/MG;R03;182.3;198.09
+NF-100206;CTE-0000203;RodoFácil Transportes;2026-04-05;Curitiba/PR;São Paulo/SP;R09;79.7;103.56
+NF-100207;CTE-0000204;RodoFácil Transportes;2026-04-06;Campinas/SP;Belo Horizonte/MG;R03;158.9;172.53
+NF-100208;CTE-0000205;TransLog Express;2026-04-06;Campinas/SP;Rio de Janeiro/RJ;R02;263.2;262.92
+NF-100209;CTE-0000206;RodoFácil Transportes;2026-04-07;Campinas/SP;Belo Horizonte/MG;R03;140.5;152.62
+NF-100210;CTE-0000207;Norte Sul Fretes;2026-04-07;Campinas/SP;Recife/PE;R07;291.3;1257.20
+NF-100211;CTE-0000208;Norte Sul Fretes;2026-04-07;Campinas/SP;Salvador/BA;R06;496.8;1524.90
+NF-100212;CTE-0000209;TransLog Express;2026-04-07;Campinas/SP;Rio de Janeiro/RJ;R02;239.5;273.35
+NF-100213;CTE-0000210;TransLog Express;2026-04-08;Campinas/SP;Rio de Janeiro/RJ;R02;525.9;525.65
+NF-100214;CTE-0000211;Veloz Cargas;2026-04-08;Campinas/SP;Recife/PE;R07;458.1;2237.51
+NF-100215;CTE-0000212;RodoFácil Transportes;2026-04-08;Campinas/SP;São Paulo/SP;R01;44.9;68.04
+NF-100216;CTE-0000213;Norte Sul Fretes;2026-04-08;Campinas/SP;Recife/PE;R07;530.6;2167.44
+NF-100217;CTE-0000214;RodoFácil Transportes;2026-04-08;Campinas/SP;Belo Horizonte/MG;R03;249.3;270.56
+NF-100218;CTE-0000215;TransLog Express;2026-04-09;Campinas/SP;Curitiba/PR;R04;116.3;109.47
+NF-100219;CTE-0000216;Veloz Cargas;2026-04-10;Campinas/SP;Rio de Janeiro/RJ;R02;301.2;331.16
+NF-100220;CTE-0000217;Norte Sul Fretes;2026-04-11;Curitiba/PR;São Paulo/SP;R09;393.3;309.86
+NF-100221;CTE-0000218;RodoFácil Transportes;2026-04-11;Campinas/SP;Goiânia/GO;R08;457.0;732.45
+NF-100222;CTE-0000219;Veloz Cargas;2026-04-11;Campinas/SP;Salvador/BA;R06;1087.4;4745.23
+NF-100223;CTE-0000220;RodoFácil Transportes;2026-04-11;Campinas/SP;Goiânia/GO;R08;334.8;537.03
+NF-100224;CTE-0000221;Norte Sul Fretes;2026-04-12;Curitiba/PR;São Paulo/SP;R09;382.3;301.18
+NF-100225;CTE-0000222;RodoFácil Transportes;2026-04-12;Campinas/SP;Belo Horizonte/MG;R03;392.5;426.70
+NF-100226;CTE-0000223;Atlântico Logística;2026-04-12;Campinas/SP;Salvador/BA;R06;466.9;1635.21
+NF-100227;CTE-0000224;RodoFácil Transportes;2026-04-13;Campinas/SP;São Paulo/SP;R01;1176.5;402.21
+NF-100228;CTE-0000225;RodoFácil Transportes;2026-04-13;Campinas/SP;Goiânia/GO;R08;473.7;759.54
+NF-100229;CTE-0000226;RodoFácil Transportes;2026-04-15;Campinas/SP;São Paulo/SP;R01;325.7;111.22
+NF-100230;CTE-0000227;Atlântico Logística;2026-04-15;Campinas/SP;Porto Alegre/RS;R05;350.5;721.38
+NF-100231;CTE-0000228;TransLog Express;2026-04-16;Campinas/SP;Rio de Janeiro/RJ;R02;155.2;155.44
+NF-100232;CTE-0000229;Veloz Cargas;2026-04-16;Campinas/SP;Goiânia/GO;R08;269.4;499.84
+NF-100233;CTE-0000230;RodoFácil Transportes;2026-04-16;Campinas/SP;Rio de Janeiro/RJ;R02;864.3;821.23
+NF-100234;CTE-0000231;Atlântico Logística;2026-04-17;Campinas/SP;Recife/PE;R07;1005.7;4688.36
+NF-100235;CTE-0000232;TransLog Express;2026-04-18;Campinas/SP;Belo Horizonte/MG;R03;1146.0;1310.91
+NF-100236;CTE-0000233;TransLog Express;2026-04-18;Campinas/SP;Belo Horizonte/MG;R03;800.4;915.87
+NF-100237;CTE-0000234;TransLog Express;2026-04-18;Campinas/SP;Curitiba/PR;R04;297.6;254.64
+NF-100238;CTE-0000235;RodoFácil Transportes;2026-04-19;Campinas/SP;Curitiba/PR;R04;364.2;295.99
+NF-100239;CTE-0000236;Norte Sul Fretes;2026-04-19;Campinas/SP;Curitiba/PR;R04;567.6;447.32
+NF-100240;CTE-0000237;TransLog Express;2026-04-20;Campinas/SP;Curitiba/PR;R04;181.8;155.97
+NF-100241;CTE-0000238;TransLog Express;2026-04-20;Campinas/SP;Porto Alegre/RS;R05;320.9;629.16
+NF-100242;CTE-0000239;Veloz Cargas;2026-04-21;Campinas/SP;Recife/PE;R07;187.8;917.15
+NF-100243;CTE-0000240;RodoFácil Transportes;2026-04-21;Campinas/SP;São Paulo/SP;R01;976.3;334.16
+NF-100244;CTE-0000241;Veloz Cargas;2026-04-21;Campinas/SP;Rio de Janeiro/RJ;R02;1243.4;1367.84
+NF-100245;CTE-0000242;RodoFácil Transportes;2026-04-22;Campinas/SP;Goiânia/GO;R08;2846.7;4564.68
+NF-100246;CTE-0000243;TransLog Express;2026-04-22;Campinas/SP;Porto Alegre/RS;R05;386.2;722.87
+NF-100247;CTE-0000244;Atlântico Logística;2026-04-23;Campinas/SP;Salvador/BA;R06;442.0;1548.53
+NF-100248;CTE-0000245;Veloz Cargas;2026-04-23;Campinas/SP;Belo Horizonte/MG;R03;167.2;235.16
+NF-100249;CTE-0000246;Atlântico Logística;2026-04-23;Campinas/SP;Recife/PE;R07;480.6;2240.55
+NF-100250;CTE-0000247;Norte Sul Fretes;2026-04-24;Campinas/SP;Goiânia/GO;R08;409.9;636.62
+NF-100251;CTE-0000248;RodoFácil Transportes;2026-04-24;Campinas/SP;São Paulo/SP;R01;149.6;68.51
+NF-100252;CTE-0000249;Veloz Cargas;2026-04-25;Campinas/SP;Goiânia/GO;R08;291.9;621.06
+NF-100253;CTE-0000250;Veloz Cargas;2026-04-25;Campinas/SP;Goiânia/GO;R08;1156.4;2146.99
+NF-100254;CTE-0000251;TransLog Express;2026-04-26;Campinas/SP;Belo Horizonte/MG;R03;858.4;981.65
+NF-100255;CTE-0000252;TransLog Express;2026-04-26;Campinas/SP;Belo Horizonte/MG;R03;171.6;196.35
+NF-100256;CTE-0000253;RodoFácil Transportes;2026-04-27;Curitiba/PR;Porto Alegre/RS;R10;140.0;175.48
+NF-100257;CTE-0000254;Veloz Cargas;2026-04-27;Campinas/SP;Porto Alegre/RS;R05;966.0;2082.37
+NF-100258;CTE-0000255;Norte Sul Fretes;2026-04-27;Campinas/SP;Goiânia/GO;R08;1119.7;1738.63
+NF-100259;CTE-0000256;Norte Sul Fretes;2026-04-27;Campinas/SP;Goiânia/GO;R08;828.7;1287.23
+NF-100260;CTE-0000257;Veloz Cargas;2026-04-27;Campinas/SP;Goiânia/GO;R08;365.5;678.60
+NF-100261;CTE-0000258;TransLog Express;2026-04-28;Campinas/SP;Porto Alegre/RS;R05;493.9;968.29
+NF-100262;CTE-0000259;Veloz Cargas;2026-04-28;Campinas/SP;Recife/PE;R07;2800.5;13677.89
+NF-100263;CTE-0000260;Atlântico Logística;2026-04-29;Campinas/SP;Porto Alegre/RS;R05;40.0;235.89
+NF-100264;CTE-0000261;TransLog Express;2026-04-29;Campinas/SP;Rio de Janeiro/RJ;R02;774.0;774.15
+NF-100265;CTE-0000262;RodoFácil Transportes;2026-04-30;Campinas/SP;São Paulo/SP;R01;1227.6;419.80
+NF-100266;CTE-0000263;Norte Sul Fretes;2026-05-01;Campinas/SP;Recife/PE;R07;473.5;1934.48
+NF-100267;CTE-0000264;RodoFácil Transportes;2026-05-01;Campinas/SP;Belo Horizonte/MG;R03;340.7;370.08
+NF-100268;CTE-0000265;TransLog Express;2026-05-03;Curitiba/PR;São Paulo/SP;R09;788.3;674.40
+NF-100269;CTE-0000266;Veloz Cargas;2026-05-03;Campinas/SP;Recife/PE;R07;147.8;721.88
+NF-100270;CTE-0000267;RodoFácil Transportes;2026-05-03;Campinas/SP;Curitiba/PR;R04;409.5;333.09
+NF-100271;CTE-0000268;TransLog Express;2026-05-04;Campinas/SP;Rio de Janeiro/RJ;R02;69.3;143.93
+NF-100272;CTE-0000269;TransLog Express;2026-05-05;Campinas/SP;Curitiba/PR;R04;1210.8;1036.58
+NF-100273;CTE-0000270;Atlântico Logística;2026-05-05;Campinas/SP;Curitiba/PR;R04;351.1;315.72
+NF-100274;CTE-0000271;Veloz Cargas;2026-05-05;Campinas/SP;Recife/PE;R07;339.2;1656.88
+NF-100275;CTE-0000272;RodoFácil Transportes;2026-05-05;Campinas/SP;Rio de Janeiro/RJ;R02;1508.3;1432.92
+NF-100276;CTE-0000273;Veloz Cargas;2026-05-07;Campinas/SP;Belo Horizonte/MG;R03;981.3;1235.10
+NF-100277;CTE-0000274;TransLog Express;2026-05-08;Campinas/SP;Belo Horizonte/MG;R03;143.3;163.89
+NF-100278;CTE-0000275;TransLog Express;2026-05-08;Campinas/SP;São Paulo/SP;R01;605.5;218.07
+NF-100279;CTE-0000276;Veloz Cargas;2026-05-08;Campinas/SP;Recife/PE;R07;1367.1;6677.15
+NF-100280;CTE-0000277;RodoFácil Transportes;2026-05-08;Campinas/SP;Goiânia/GO;R08;1858.7;2980.32
+NF-100281;CTE-0000278;Atlântico Logística;2026-05-08;Campinas/SP;Belo Horizonte/MG;R03;85.2;137.02
+NF-100282;CTE-0000279;TransLog Express;2026-05-08;Campinas/SP;Belo Horizonte/MG;R03;55.6;130.47
+NF-100283;CTE-0000280;Norte Sul Fretes;2026-05-09;Curitiba/PR;São Paulo/SP;R09;855.4;673.66
+NF-100284;CTE-0000281;Veloz Cargas;2026-05-09;Campinas/SP;Rio de Janeiro/RJ;R02;1338.4;1472.02
+NF-100285;CTE-0000282;TransLog Express;2026-05-09;Campinas/SP;Rio de Janeiro/RJ;R02;1798.7;1798.32
+NF-100286;CTE-0000283;Norte Sul Fretes;2026-05-09;Campinas/SP;São Paulo/SP;R01;227.5;75.52
+NF-100287;CTE-0000284;TransLog Express;2026-05-10;Campinas/SP;Curitiba/PR;R04;1307.9;1334.86
+NF-100288;CTE-0000285;RodoFácil Transportes;2026-05-10;Campinas/SP;Belo Horizonte/MG;R03;892.4;969.51
+NF-100289;CTE-0000286;TransLog Express;2026-05-10;Campinas/SP;Curitiba/PR;R04;222.6;190.60
+NF-100290;CTE-0000287;Norte Sul Fretes;2026-05-11;Campinas/SP;Curitiba/PR;R04;141.5;111.45
+NF-100291;CTE-0000288;Atlântico Logística;2026-05-11;Campinas/SP;Salvador/BA;R06;3368.2;12920.42
+NF-100292;CTE-0000289;RodoFácil Transportes;2026-05-12;Campinas/SP;Goiânia/GO;R08;327.3;524.74
+NF-100293;CTE-0000290;Norte Sul Fretes;2026-05-13;Campinas/SP;Recife/PE;R07;5583.3;22806.49
+NF-100294;CTE-0000291;Atlântico Logística;2026-05-13;Curitiba/PR;Porto Alegre/RS;R10;273.4;379.16
+NF-100295;CTE-0000292;Norte Sul Fretes;2026-05-13;Campinas/SP;São Paulo/SP;R01;1606.7;531.81
+NF-100296;CTE-0000293;Veloz Cargas;2026-05-13;Campinas/SP;Recife/PE;R07;177.7;979.86
+NF-100297;CTE-0000294;TransLog Express;2026-05-13;Campinas/SP;Rio de Janeiro/RJ;R02;1084.0;1084.33
+NF-100298;CTE-0000295;RodoFácil Transportes;2026-05-13;Campinas/SP;Goiânia/GO;R08;255.9;410.18
+NF-100299;CTE-0000296;Veloz Cargas;2026-05-14;Campinas/SP;Porto Alegre/RS;R05;735.9;1586.69
+NF-100300;CTE-0000297;TransLog Express;2026-05-14;Campinas/SP;São Paulo/SP;R01;406.8;146.34
+NF-100301;CTE-0000298;Veloz Cargas;2026-05-15;Campinas/SP;Goiânia/GO;R08;1027.8;2056.15
+NF-100302;CTE-0000299;Atlântico Logística;2026-05-15;Campinas/SP;Curitiba/PR;R04;87.0;114.67
+NF-100303;CTE-0000300;RodoFácil Transportes;2026-05-16;Campinas/SP;Curitiba/PR;R04;165.2;134.53
+NF-100304;CTE-0000301;TransLog Express;2026-05-16;Campinas/SP;Rio de Janeiro/RJ;R02;661.1;605.59
+NF-100305;CTE-0000302;Veloz Cargas;2026-05-16;Campinas/SP;Goiânia/GO;R08;608.1;1128.92
+NF-100306;CTE-0000303;Veloz Cargas;2026-05-16;Campinas/SP;Goiânia/GO;R08;701.3;1301.85
+NF-100307;CTE-0000304;TransLog Express;2026-05-16;Campinas/SP;Rio de Janeiro/RJ;R02;279.3;279.10
+NF-100308;CTE-0000305;RodoFácil Transportes;2026-05-17;Curitiba/PR;São Paulo/SP;R09;1319.1;1072.35
+NF-100309;CTE-0000306;TransLog Express;2026-05-17;Campinas/SP;São Paulo/SP;R01;926.7;333.95
+NF-100310;CTE-0000307;RodoFácil Transportes;2026-05-18;Campinas/SP;Goiânia/GO;R08;675.8;1083.37
+NF-100311;CTE-0000308;RodoFácil Transportes;2026-05-18;Campinas/SP;Goiânia/GO;R08;71.6;163.36
+NF-100312;CTE-0000309;TransLog Express;2026-05-19;Curitiba/PR;São Paulo/SP;R09;386.9;331.02
+NF-100313;CTE-0000310;RodoFácil Transportes;2026-05-19;Campinas/SP;São Paulo/SP;R01;1204.8;412.18
+NF-100314;CTE-0000311;RodoFácil Transportes;2026-05-20;Campinas/SP;Curitiba/PR;R04;493.5;445.11
+NF-100315;CTE-0000312;Veloz Cargas;2026-05-21;Campinas/SP;Rio de Janeiro/RJ;R02;311.8;342.66
+NF-100316;CTE-0000313;Norte Sul Fretes;2026-05-21;Curitiba/PR;São Paulo/SP;R09;228.6;180.06
+NF-100317;CTE-0000314;Norte Sul Fretes;2026-05-21;Curitiba/PR;São Paulo/SP;R09;408.0;321.18
+NF-100318;CTE-0000315;TransLog Express;2026-05-21;Campinas/SP;Porto Alegre/RS;R05;994.1;1948.47
+NF-100319;CTE-0000316;Veloz Cargas;2026-05-21;Campinas/SP;Salvador/BA;R06;198.4;783.04
+NF-100320;CTE-0000317;Norte Sul Fretes;2026-05-21;Campinas/SP;Rio de Janeiro/RJ;R02;340.5;425.62
+NF-100321;CTE-0000318;RodoFácil Transportes;2026-05-22;Campinas/SP;Rio de Janeiro/RJ;R02;936.7;890.21
+NF-100322;CTE-0000319;RodoFácil Transportes;2026-05-22;Curitiba/PR;Porto Alegre/RS;R10;438.3;549.23
+NF-100323;CTE-0000320;RodoFácil Transportes;2026-05-23;Curitiba/PR;São Paulo/SP;R09;318.6;259.27
+NF-100324;CTE-0000321;RodoFácil Transportes;2026-05-23;Curitiba/PR;São Paulo/SP;R09;5712.2;4645.12
+NF-100325;CTE-0000322;Veloz Cargas;2026-05-23;Campinas/SP;Belo Horizonte/MG;R03;748.4;1001.80
+NF-100326;CTE-0000323;Norte Sul Fretes;2026-05-24;Curitiba/PR;São Paulo/SP;R09;1767.4;1391.99
+NF-100327;CTE-0000324;Veloz Cargas;2026-05-24;Campinas/SP;Rio de Janeiro/RJ;R02;938.2;1219.66
+NF-100328;CTE-0000325;Norte Sul Fretes;2026-05-24;Campinas/SP;Goiânia/GO;R08;258.9;401.99
+NF-100329;CTE-0000326;Veloz Cargas;2026-05-25;Campinas/SP;Recife/PE;R07;347.6;1697.33
+NF-100330;CTE-0000327;RodoFácil Transportes;2026-05-25;Campinas/SP;São Paulo/SP;R01;1020.8;349.03
+NF-100331;CTE-0000328;Veloz Cargas;2026-05-26;Campinas/SP;Porto Alegre/RS;R05;804.1;1821.98
+NF-100332;CTE-0000329;TransLog Express;2026-05-26;Campinas/SP;São Paulo/SP;R01;107.5;71.82
+NF-100333;CTE-0000330;Veloz Cargas;2026-05-27;Campinas/SP;Salvador/BA;R06;856.6;3364.74
+NF-100334;CTE-0000331;Veloz Cargas;2026-05-27;Campinas/SP;Rio de Janeiro/RJ;R02;1088.9;1197.91
+NF-100335;CTE-0000332;RodoFácil Transportes;2026-05-27;Curitiba/PR;Porto Alegre/RS;R10;444.4;625.66
+NF-100336;CTE-0000333;RodoFácil Transportes;2026-05-28;Campinas/SP;Curitiba/PR;R04;749.0;642.03
+NF-100337;CTE-0000334;Veloz Cargas;2026-05-28;Campinas/SP;Porto Alegre/RS;R05;130.6;337.40
+NF-100338;CTE-0000335;Norte Sul Fretes;2026-05-28;Campinas/SP;Salvador/BA;R06;1368.3;4199.44
+NF-100339;CTE-0000336;TransLog Express;2026-05-28;Campinas/SP;Salvador/BA;R06;454.4;1894.85
+NF-100340;CTE-0000337;RodoFácil Transportes;2026-05-29;Curitiba/PR;São Paulo/SP;R09;674.5;548.30
+NF-100341;CTE-0000338;Atlântico Logística;2026-05-29;Campinas/SP;Curitiba/PR;R04;554.2;498.50
+NF-100342;CTE-0000339;Norte Sul Fretes;2026-05-29;Campinas/SP;Salvador/BA;R06;5214.3;16003.22
+NF-100343;CTE-0000340;Atlântico Logística;2026-05-29;Campinas/SP;Rio de Janeiro/RJ;R02;1066.4;1333.00
+NF-100344;CTE-0000341;TransLog Express;2026-05-30;Campinas/SP;São Paulo/SP;R01;698.4;251.72
+NF-100345;CTE-0000342;Atlântico Logística;2026-05-31;Campinas/SP;Belo Horizonte/MG;R03;122.2;146.63
+NF-100346;CTE-0000343;Veloz Cargas;2026-05-31;Campinas/SP;Recife/PE;R07;372.5;2048.64
+NF-100347;CTE-0000344;Atlântico Logística;2026-05-31;Campinas/SP;Recife/PE;R07;560.8;2614.50
+NF-100348;CTE-0000345;RodoFácil Transportes;2026-06-01;Campinas/SP;Rio de Janeiro/RJ;R02;726.0;769.90
+NF-100349;CTE-0000346;RodoFácil Transportes;2026-06-01;Campinas/SP;Belo Horizonte/MG;R03;220.9;240.22
+NF-100350;CTE-0000347;Veloz Cargas;2026-06-01;Campinas/SP;Rio de Janeiro/RJ;R02;2450.5;3110.31
+NF-100351;CTE-0000348;RodoFácil Transportes;2026-06-02;Campinas/SP;Curitiba/PR;R04;223.0;181.43
+NF-100352;CTE-0000349;Veloz Cargas;2026-06-02;Campinas/SP;Belo Horizonte/MG;R03;89.4;144.03
+NF-100353;CTE-0000350;Norte Sul Fretes;2026-06-02;Campinas/SP;Salvador/BA;R06;181.9;657.18
+NF-100354;CTE-0000351;TransLog Express;2026-06-03;Curitiba/PR;São Paulo/SP;R09;194.3;189.50
+NF-100355;CTE-0000352;Veloz Cargas;2026-06-03;Campinas/SP;Goiânia/GO;R08;1089.8;2023.85
+NF-100356;CTE-0000353;Atlântico Logística;2026-06-03;Curitiba/PR;Porto Alegre/RS;R10;509.3;705.75
+NF-100357;CTE-0000354;RodoFácil Transportes;2026-06-03;Curitiba/PR;São Paulo/SP;R09;941.1;765.20
+NF-100358;CTE-0000355;Norte Sul Fretes;2026-06-03;Campinas/SP;Curitiba/PR;R04;1835.0;1445.32
+NF-100359;CTE-0000356;Norte Sul Fretes;2026-06-03;Campinas/SP;Goiânia/GO;R08;214.5;333.46
+NF-100360;CTE-0000357;Atlântico Logística;2026-06-04;Curitiba/PR;Porto Alegre/RS;R10;154.9;214.44
+NF-100361;CTE-0000358;RodoFácil Transportes;2026-06-05;Campinas/SP;Rio de Janeiro/RJ;R02;781.9;742.63
+NF-100362;CTE-0000359;RodoFácil Transportes;2026-06-05;Campinas/SP;Curitiba/PR;R04;130.5;106.44
+NF-100363;CTE-0000360;Veloz Cargas;2026-06-06;Campinas/SP;Rio de Janeiro/RJ;R02;87.2;156.41
+NF-100364;CTE-0000361;TransLog Express;2026-06-07;Campinas/SP;Rio de Janeiro/RJ;R02;1135.6;1135.94
+NF-100365;CTE-0000362;Veloz Cargas;2026-06-07;Campinas/SP;Salvador/BA;R06;2612.6;10698.68
+NF-100366;CTE-0000363;RodoFácil Transportes;2026-06-07;Curitiba/PR;São Paulo/SP;R09;134.2;108.92
+NF-100367;CTE-0000364;Veloz Cargas;2026-06-07;Campinas/SP;Curitiba/PR;R04;98.8;120.00
+NF-100368;CTE-0000365;TransLog Express;2026-06-08;Campinas/SP;São Paulo/SP;R01;258.1;93.13
+NF-100369;CTE-0000366;Norte Sul Fretes;2026-06-08;Campinas/SP;Recife/PE;R07;88.2;359.90
+NF-100370;CTE-0000367;RodoFácil Transportes;2026-06-08;Curitiba/PR;São Paulo/SP;R09;1665.8;1354.41
+NF-100371;CTE-0000368;Norte Sul Fretes;2026-06-09;Campinas/SP;Goiânia/GO;R08;286.4;444.55
+NF-100372;CTE-0000369;Atlântico Logística;2026-06-09;Campinas/SP;Porto Alegre/RS;R05;160.3;329.91
+NF-100373;CTE-0000370;TransLog Express;2026-06-10;Campinas/SP;Belo Horizonte/MG;R03;278.8;319.34
+NF-100374;CTE-0000371;Atlântico Logística;2026-06-10;Campinas/SP;Porto Alegre/RS;R05;636.6;1310.22
+NF-100375;CTE-0000372;Veloz Cargas;2026-06-10;Campinas/SP;Salvador/BA;R06;40.0;324.78
+NF-100376;CTE-0000373;Atlântico Logística;2026-06-11;Campinas/SP;Salvador/BA;R06;152.7;591.56
+NF-100377;CTE-0000374;Veloz Cargas;2026-06-11;Campinas/SP;Recife/PE;R07;924.6;4515.80
+NF-100378;CTE-0000375;Veloz Cargas;2026-06-11;Campinas/SP;Porto Alegre/RS;R05;1219.3;2628.92
+NF-100379;CTE-0000365;TransLog Express;2026-06-13;Campinas/SP;São Paulo/SP;R01;258.1;93.13
+NF-100380;CTE-0000376;Norte Sul Fretes;2026-06-13;Campinas/SP;Goiânia/GO;R08;833.7;1294.99
+NF-100381;CTE-0000377;Atlântico Logística;2026-06-13;Campinas/SP;Salvador/BA;R06;375.4;1315.19
+NF-100382;CTE-0000378;Atlântico Logística;2026-06-13;Campinas/SP;Salvador/BA;R06;1341.2;4698.08
+NF-100383;CTE-0000377;Atlântico Logística;2026-06-14;Campinas/SP;Salvador/BA;R06;375.4;1315.19
+NF-100384;CTE-0000379;RodoFácil Transportes;2026-06-14;Campinas/SP;Goiânia/GO;R08;447.2;716.90
+NF-100385;CTE-0000380;TransLog Express;2026-06-14;Campinas/SP;Belo Horizonte/MG;R03;346.5;396.61
+NF-100386;CTE-0000372;Veloz Cargas;2026-06-15;Campinas/SP;Salvador/BA;R06;40.0;324.78
+NF-100387;CTE-0000381;Veloz Cargas;2026-06-15;Campinas/SP;Rio de Janeiro/RJ;R02;483.1;531.30
+NF-100388;CTE-0000382;Atlântico Logística;2026-06-15;Campinas/SP;Recife/PE;R07;182.1;943.80
+NF-100389;CTE-0000383;Veloz Cargas;2026-06-15;Campinas/SP;Recife/PE;R07;2227.5;12084.01
+NF-100390;CTE-0000384;TransLog Express;2026-06-15;Campinas/SP;Belo Horizonte/MG;R03;253.1;289.91
+NF-100391;CTE-0000385;RodoFácil Transportes;2026-06-15;Campinas/SP;Belo Horizonte/MG;R03;70.8;124.46
+NF-100392;CTE-0000386;TransLog Express;2026-06-16;Campinas/SP;Porto Alegre/RS;R05;269.7;528.79
+NF-100393;CTE-0000387;Veloz Cargas;2026-06-16;Campinas/SP;Porto Alegre/RS;R05;290.7;626.89
+NF-100394;CTE-0000388;Atlântico Logística;2026-06-16;Curitiba/PR;Porto Alegre/RS;R10;851.3;1180.16
+NF-100395;CTE-0000389;TransLog Express;2026-06-17;Campinas/SP;Porto Alegre/RS;R05;1122.6;2199.95
+NF-100396;CTE-0000390;RodoFácil Transportes;2026-06-17;Campinas/SP;São Paulo/SP;R01;705.0;241.19
+NF-100397;CTE-0000391;RodoFácil Transportes;2026-06-18;Curitiba/PR;Porto Alegre/RS;R10;419.0;525.68
+NF-100398;CTE-0000392;RodoFácil Transportes;2026-06-18;Campinas/SP;Curitiba/PR;R04;638.2;519.05
+NF-100399;CTE-0000393;Veloz Cargas;2026-06-19;Campinas/SP;Salvador/BA;R06;324.1;1374.14
+NF-100400;CTE-0000394;Norte Sul Fretes;2026-06-19;Campinas/SP;Curitiba/PR;R04;810.1;638.34
+NF-100401;CTE-0000395;TransLog Express;2026-06-19;Campinas/SP;Curitiba/PR;R04;617.9;529.28
+NF-100402;CTE-0000396;RodoFácil Transportes;2026-06-20;Campinas/SP;Rio de Janeiro/RJ;R02;1033.9;982.34
+NF-100403;CTE-0000397;TransLog Express;2026-06-20;Campinas/SP;Porto Alegre/RS;R05;205.6;402.85
+NF-100404;CTE-0000398;RodoFácil Transportes;2026-06-20;Campinas/SP;Recife/PE;R07;1835.0;10184.25
+NF-100405;CTE-0000399;Veloz Cargas;2026-06-20;Curitiba/PR;São Paulo/SP;R09;784.7;839.63
+NF-100406;CTE-0000400;Atlântico Logística;2026-06-21;Curitiba/PR;Porto Alegre/RS;R10;724.0;1003.64
+NF-100407;CTE-0000401;TransLog Express;2026-06-21;Campinas/SP;São Paulo/SP;R01;830.2;298.70
+NF-100408;CTE-0000402;Atlântico Logística;2026-06-21;Campinas/SP;Belo Horizonte/MG;R03;945.1;1134.91
+NF-100409;CTE-0000403;TransLog Express;2026-06-21;Curitiba/PR;São Paulo/SP;R09;440.5;407.64
+NF-100410;CTE-0000404;Veloz Cargas;2026-06-22;Campinas/SP;Goiânia/GO;R08;60.3;189.13
+NF-100411;CTE-0000405;Norte Sul Fretes;2026-06-23;Campinas/SP;Salvador/BA;R06;1192.1;3658.33
+NF-100412;CTE-0000406;TransLog Express;2026-06-24;Curitiba/PR;São Paulo/SP;R09;134.6;115.21
+NF-100413;CTE-0000407;TransLog Express;2026-06-24;Campinas/SP;Curitiba/PR;R04;1923.7;1646.94
+NF-100414;CTE-0000408;Veloz Cargas;2026-06-24;Campinas/SP;Belo Horizonte/MG;R03;1081.2;1360.20
+NF-100415;CTE-0000409;RodoFácil Transportes;2026-06-25;Campinas/SP;Rio de Janeiro/RJ;R02;141.0;133.76
+NF-100416;CTE-0000410;TransLog Express;2026-06-25;Campinas/SP;Curitiba/PR;R04;43.1;109.50
+NF-100417;CTE-0000411;TransLog Express;2026-06-25;Campinas/SP;Rio de Janeiro/RJ;R02;277.4;277.40
+NF-100418;CTE-0000412;Norte Sul Fretes;2026-06-26;Campinas/SP;Salvador/BA;R06;312.3;958.34
+NF-100419;CTE-0000413;Norte Sul Fretes;2026-06-26;Campinas/SP;Goiânia/GO;R08;995.6;1545.88
+NF-100420;CTE-0000414;Atlântico Logística;2026-06-27;Campinas/SP;Porto Alegre/RS;R05;1011.2;2080.88
+NF-100421;CTE-0000415;TransLog Express;2026-06-27;Campinas/SP;Porto Alegre/RS;R05;977.2;1914.92
+NF-100422;CTE-0000416;Atlântico Logística;2026-06-29;Campinas/SP;Porto Alegre/RS;R05;584.6;1202.82
+NF-100423;CTE-0000417;RodoFácil Transportes;2026-06-30;Campinas/SP;São Paulo/SP;R01;296.0;101.55
+NF-100424;CTE-0000418;RodoFácil Transportes;2026-06-30;Campinas/SP;São Paulo/SP;R01;248.0;84.95
+NF-100425;CTE-0000419;RodoFácil Transportes;2026-06-30;Campinas/SP;São Paulo/SP;R01;674.4;230.76
+NF-100426;CTE-0000420;Veloz Cargas;2026-06-30;Campinas/SP;Goiânia/GO;R08;2400.6;5340.37
+NF-100427;CTE-0000421;TransLog Express;2026-07-01;Campinas/SP;Rio de Janeiro/RJ;R02;130.3;136.87
+NF-100428;CTE-0000422;TransLog Express;2026-07-01;Campinas/SP;Curitiba/PR;R04;254.7;228.78
+NF-100429;CTE-0000423;Veloz Cargas;2026-07-01;Campinas/SP;Belo Horizonte/MG;R03;166.5;219.89
+NF-100430;CTE-0000424;Atlântico Logística;2026-07-01;Campinas/SP;Goiânia/GO;R08;205.7;434.03
+NF-100431;CTE-0000425;Veloz Cargas;2026-07-02;Campinas/SP;Belo Horizonte/MG;R03;174.2;229.91
+NF-100432;CTE-0000426;Veloz Cargas;2026-07-02;Campinas/SP;Porto Alegre/RS;R05;93.1;221.44
+NF-100433;CTE-0000427;Norte Sul Fretes;2026-07-03;Campinas/SP;Salvador/BA;R06;193.1;622.66
+NF-100434;CTE-0000428;RodoFácil Transportes;2026-07-03;Curitiba/PR;São Paulo/SP;R09;310.5;265.44
+NF-100435;CTE-0000429;RodoFácil Transportes;2026-07-03;Curitiba/PR;São Paulo/SP;R09;530.1;452.92
+NF-100436;CTE-0000430;Atlântico Logística;2026-07-03;Campinas/SP;Curitiba/PR;R04;769.5;795.16
+NF-100437;CTE-0000431;TransLog Express;2026-07-03;Campinas/SP;Curitiba/PR;R04;1721.8;1547.86
+NF-100438;CTE-0000432;Atlântico Logística;2026-07-03;Campinas/SP;Recife/PE;R07;1226.1;6572.06
+NF-100439;CTE-0000433;Atlântico Logística;2026-07-04;Campinas/SP;Belo Horizonte/MG;R03;562.4;776.74
+NF-100440;CTE-0000434;Norte Sul Fretes;2026-07-04;Campinas/SP;São Paulo/SP;R01;1791.3;622.91
+NF-100441;CTE-0000435;RodoFácil Transportes;2026-07-04;Campinas/SP;São Paulo/SP;R01;1870.4;671.64
+NF-100442;CTE-0000436;Norte Sul Fretes;2026-07-04;Campinas/SP;Salvador/BA;R06;970.2;3126.76
+NF-100443;CTE-0000437;RodoFácil Transportes;2026-07-04;Curitiba/PR;Porto Alegre/RS;R10;60.1;164.29
+NF-100444;CTE-0000438;Veloz Cargas;2026-07-04;Campinas/SP;Salvador/BA;R06;301.6;1288.03
+NF-100445;CTE-0000439;Atlântico Logística;2026-07-05;Campinas/SP;Recife/PE;R07;738.2;3956.85
+NF-100446;CTE-0000440;TransLog Express;2026-07-05;Campinas/SP;Rio de Janeiro/RJ;R02;1165.1;1223.48
+NF-100447;CTE-0000441;Veloz Cargas;2026-07-06;Campinas/SP;Belo Horizonte/MG;R03;374.7;495.02
+NF-100448;CTE-0000442;Veloz Cargas;2026-07-06;Campinas/SP;Salvador/BA;R06;534.2;2420.15
+NF-100449;CTE-0000443;Atlântico Logística;2026-07-06;Campinas/SP;Recife/PE;R07;1533.3;8218.69
+NF-100450;CTE-0000444;TransLog Express;2026-07-08;Campinas/SP;Porto Alegre/RS;R05;216.1;444.51
+NF-100451;CTE-0000445;Veloz Cargas;2026-07-08;Campinas/SP;Rio de Janeiro/RJ;R02;170.8;197.12
+NF-100452;CTE-0000446;RodoFácil Transportes;2026-07-11;Curitiba/PR;São Paulo/SP;R09;404.2;344.84
+NF-100453;CTE-0000447;Norte Sul Fretes;2026-07-11;Curitiba/PR;São Paulo/SP;R09;966.7;799.00
+NF-100454;CTE-0000448;Veloz Cargas;2026-07-11;Campinas/SP;Goiânia/GO;R08;222.2;466.21
+NF-100455;CTE-0000449;Norte Sul Fretes;2026-07-12;Campinas/SP;Goiânia/GO;R08;281.5;458.67
+NF-100456;CTE-0000450;Atlântico Logística;2026-07-12;Campinas/SP;Curitiba/PR;R04;408.4;422.02
+NF-100457;CTE-0000451;RodoFácil Transportes;2026-07-12;Campinas/SP;Goiânia/GO;R08;151.1;254.71
+NF-100458;CTE-0000452;TransLog Express;2026-07-13;Curitiba/PR;São Paulo/SP;R09;405.4;364.34
+NF-100459;CTE-0000453;Veloz Cargas;2026-07-13;Campinas/SP;Belo Horizonte/MG;R03;404.1;533.70
+NF-100460;CTE-0000454;Veloz Cargas;2026-07-13;Campinas/SP;Belo Horizonte/MG;R03;534.5;705.97
+NF-100461;CTE-0000455;TransLog Express;2026-07-14;Campinas/SP;Curitiba/PR;R04;715.0;642.50
+NF-100462;CTE-0000456;TransLog Express;2026-07-14;Curitiba/PR;São Paulo/SP;R09;636.0;620.74
+NF-100463;CTE-0000457;Veloz Cargas;2026-07-14;Campinas/SP;Recife/PE;R07;1584.8;8127.20
+NF-100464;CTE-0000458;TransLog Express;2026-07-14;Campinas/SP;Curitiba/PR;R04;226.4;203.65
+NF-100465;CTE-0000459;TransLog Express;2026-07-15;Campinas/SP;Curitiba/PR;R04;151.2;136.22
+NF-100466;CTE-0000460;RodoFácil Transportes;2026-07-15;Campinas/SP;São Paulo/SP;R01;683.5;245.81
+NF-100467;CTE-0000461;Norte Sul Fretes;2026-07-17;Campinas/SP;Recife/PE;R07;649.9;2787.79
+NF-100468;CTE-0000462;TransLog Express;2026-07-17;Campinas/SP;Belo Horizonte/MG;R03;2353.9;2827.11
+NF-100469;CTE-0000463;TransLog Express;2026-07-18;Campinas/SP;Porto Alegre/RS;R05;342.5;704.68
+NF-100470;CTE-0000464;Norte Sul Fretes;2026-07-18;Campinas/SP;São Paulo/SP;R01;527.1;182.96
+NF-100471;CTE-0000465;TransLog Express;2026-07-19;Campinas/SP;Curitiba/PR;R04;2214.6;1990.64
+NF-100472;CTE-0000466;Veloz Cargas;2026-07-19;Campinas/SP;Goiânia/GO;R08;359.0;699.51
+NF-100473;CTE-0000467;RodoFácil Transportes;2026-07-20;Campinas/SP;Curitiba/PR;R04;605.5;517.31
+NF-100474;CTE-0000468;Veloz Cargas;2026-07-20;Campinas/SP;Belo Horizonte/MG;R03;207.5;274.01
+NF-100475;CTE-0000469;RodoFácil Transportes;2026-07-21;Campinas/SP;São Paulo/SP;R01;634.2;227.51
+NF-100476;CTE-0000470;TransLog Express;2026-07-21;Campinas/SP;Belo Horizonte/MG;R03;1589.3;1908.92
+NF-100477;CTE-0000471;TransLog Express;2026-07-21;Curitiba/PR;São Paulo/SP;R09;559.9;503.18
+NF-100478;CTE-0000472;Veloz Cargas;2026-07-23;Campinas/SP;Goiânia/GO;R08;183.1;356.58
+NF-100479;CTE-0000473;Atlântico Logística;2026-07-23;Campinas/SP;Recife/PE;R07;625.5;3352.76
+NF-100480;CTE-0000474;Veloz Cargas;2026-07-23;Campinas/SP;Recife/PE;R07;561.9;2881.94
+NF-100481;CTE-0000475;RodoFácil Transportes;2026-07-24;Campinas/SP;Goiânia/GO;R08;163.6;275.67
+NF-100482;CTE-0000476;Atlântico Logística;2026-07-24;Campinas/SP;Salvador/BA;R06;487.0;1961.30
+NF-100483;CTE-0000477;TransLog Express;2026-07-24;Campinas/SP;São Paulo/SP;R01;2205.8;833.45
+NF-100484;CTE-0000478;Atlântico Logística;2026-07-25;Campinas/SP;Porto Alegre/RS;R05;312.8;676.28
+NF-100485;CTE-0000479;RodoFácil Transportes;2026-07-25;Campinas/SP;São Paulo/SP;R01;142.0;71.65
+NF-100486;CTE-0000480;TransLog Express;2026-07-26;Campinas/SP;São Paulo/SP;R01;463.1;175.07
+NF-100487;CTE-0000481;TransLog Express;2026-07-26;Campinas/SP;Porto Alegre/RS;R05;219.4;451.30
+NF-100488;CTE-0000482;Veloz Cargas;2026-07-27;Campinas/SP;Goiânia/GO;R08;1396.3;2721.90
+NF-100489;CTE-0000483;RodoFácil Transportes;2026-07-27;Campinas/SP;Belo Horizonte/MG;R03;453.2;517.30
+NF-100490;CTE-0000484;RodoFácil Transportes;2026-07-27;Curitiba/PR;São Paulo/SP;R09;443.6;378.93
+NF-100491;CTE-0000485;Norte Sul Fretes;2026-07-27;Campinas/SP;Goiânia/GO;R08;700.3;1141.52
+NF-100492;CTE-0000486;Norte Sul Fretes;2026-07-27;Campinas/SP;Recife/PE;R07;250.6;1074.68
+NF-100493;CTE-0000487;RodoFácil Transportes;2026-07-30;Campinas/SP;São Paulo/SP;R01;250.8;90.26
+NF-100494;CTE-0000488;Veloz Cargas;2026-07-30;Campinas/SP;Salvador/BA;R06;1532.1;5903.00
+NF-100495;CTE-0000489;Veloz Cargas;2026-07-30;Campinas/SP;Belo Horizonte/MG;R03;1405.6;1857.02
+NF-100496;CTE-0000490;RodoFácil Transportes;2026-07-31;Campinas/SP;Rio de Janeiro/RJ;R02;591.0;589.27
+NF-100497;CTE-0000491;Atlântico Logística;2026-07-31;Campinas/SP;Porto Alegre/RS;R05;2109.9;4992.41
+NF-100498;CTE-0000492;Veloz Cargas;2026-07-31;Campinas/SP;Salvador/BA;R06;372.6;1435.63
+NF-100499;CTE-0000493;Atlântico Logística;2026-08-01;Campinas/SP;Salvador/BA;R06;2008.2;8087.62
+NF-100500;CTE-0000494;RodoFácil Transportes;2026-08-01;Campinas/SP;São Paulo/SP;R01;123.3;71.61
+NF-100501;CTE-0000495;Veloz Cargas;2026-08-01;Campinas/SP;Belo Horizonte/MG;R03;2504.5;3309.26
+NF-100502;CTE-0000496;Veloz Cargas;2026-08-02;Campinas/SP;Goiânia/GO;R08;402.5;784.46
+NF-100503;CTE-0000497;TransLog Express;2026-08-02;Campinas/SP;Porto Alegre/RS;R05;332.5;684.07
+NF-100504;CTE-0000498;RodoFácil Transportes;2026-08-02;Campinas/SP;Goiânia/GO;R08;6215.4;10465.52
+NF-100505;CTE-0000499;RodoFácil Transportes;2026-08-03;Curitiba/PR;São Paulo/SP;R09;806.9;689.32
+NF-100506;CTE-0000500;TransLog Express;2026-08-03;Campinas/SP;Curitiba/PR;R04;699.3;628.47
+NF-100507;CTE-0000495;Veloz Cargas;2026-08-04;Campinas/SP;Belo Horizonte/MG;R03;2504.5;3309.26
+NF-100508;CTE-0000501;Veloz Cargas;2026-08-04;Campinas/SP;Goiânia/GO;R08;82.8;198.16
+NF-100509;CTE-0000502;TransLog Express;2026-08-04;Campinas/SP;Belo Horizonte/MG;R03;118.8;142.59
+NF-100510;CTE-0000503;TransLog Express;2026-08-05;Curitiba/PR;São Paulo/SP;R09;627.6;564.16
+NF-100511;CTE-0000504;Atlântico Logística;2026-08-05;Campinas/SP;Belo Horizonte/MG;R03;366.6;506.32
+NF-100512;CTE-0000505;Atlântico Logística;2026-08-06;Curitiba/PR;Porto Alegre/RS;R10;96.0;173.84
+NF-100513;CTE-0000506;RodoFácil Transportes;2026-08-07;Curitiba/PR;São Paulo/SP;R09;547.8;468.12
+NF-100514;CTE-0000507;Atlântico Logística;2026-08-07;Campinas/SP;Porto Alegre/RS;R05;334.1;790.54
+NF-100515;CTE-0000508;TransLog Express;2026-08-07;Curitiba/PR;São Paulo/SP;R09;539.4;484.69
+NF-100516;CTE-0000509;Veloz Cargas;2026-08-08;Campinas/SP;Belo Horizonte/MG;R03;1329.6;1980.91
+NF-100517;CTE-0000510;RodoFácil Transportes;2026-08-09;Campinas/SP;Goiânia/GO;R08;251.9;424.17
+NF-100518;CTE-0000511;Norte Sul Fretes;2026-08-09;Campinas/SP;Salvador/BA;R06;90.4;291.37
+NF-100519;CTE-0000512;RodoFácil Transportes;2026-08-09;Campinas/SP;São Paulo/SP;R01;1006.2;361.01
+NF-100520;CTE-0000513;TransLog Express;2026-08-10;Curitiba/PR;São Paulo/SP;R09;266.7;240.02
+NF-100521;CTE-0000506;RodoFácil Transportes;2026-08-11;Curitiba/PR;São Paulo/SP;R09;547.8;468.12
+NF-100522;CTE-0000514;TransLog Express;2026-08-11;Campinas/SP;São Paulo/SP;R01;161.5;75.55
+NF-100523;CTE-0000515;TransLog Express;2026-08-11;Campinas/SP;Curitiba/PR;R04;688.5;619.21
+NF-100524;CTE-0000516;TransLog Express;2026-08-11;Campinas/SP;Porto Alegre/RS;R05;696.1;1432.95
+NF-100525;CTE-0000517;Atlântico Logística;2026-08-11;Campinas/SP;Curitiba/PR;R04;773.1;798.88
+NF-100526;CTE-0000518;Atlântico Logística;2026-08-12;Campinas/SP;Curitiba/PR;R04;657.4;679.33
+NF-100527;CTE-0000519;Atlântico Logística;2026-08-13;Campinas/SP;Porto Alegre/RS;R05;248.4;587.76
+NF-100528;CTE-0000520;RodoFácil Transportes;2026-08-14;Campinas/SP;São Paulo/SP;R01;188.1;71.74
+NF-100529;CTE-0000521;TransLog Express;2026-08-14;Curitiba/PR;São Paulo/SP;R09;453.8;407.78
+NF-100530;CTE-0000522;RodoFácil Transportes;2026-08-15;Campinas/SP;Goiânia/GO;R08;233.8;393.74
+NF-100531;CTE-0000523;Norte Sul Fretes;2026-08-15;Campinas/SP;Goiânia/GO;R08;616.8;1006.12
+NF-100532;CTE-0000524;Veloz Cargas;2026-08-15;Campinas/SP;Belo Horizonte/MG;R03;2314.1;3057.91
+NF-100533;CTE-0000525;Atlântico Logística;2026-08-15;Campinas/SP;Porto Alegre/RS;R05;2748.1;6502.51
+NF-100534;CTE-0000526;TransLog Express;2026-08-16;Curitiba/PR;São Paulo/SP;R09;589.3;529.48
+NF-100535;CTE-0000527;Veloz Cargas;2026-08-16;Campinas/SP;Porto Alegre/RS;R05;1095.5;2918.14
+NF-100536;CTE-0000528;Norte Sul Fretes;2026-08-16;Campinas/SP;Salvador/BA;R06;571.5;1841.68
+NF-100537;CTE-0000529;Veloz Cargas;2026-08-18;Campinas/SP;Goiânia/GO;R08;287.2;560.30
+NF-100538;CTE-0000530;TransLog Express;2026-08-19;Campinas/SP;Rio de Janeiro/RJ;R02;1485.5;1559.99
+NF-100539;CTE-0000531;TransLog Express;2026-08-19;Campinas/SP;Belo Horizonte/MG;R03;481.8;579.09
+NF-100540;CTE-0000532;Veloz Cargas;2026-08-19;Campinas/SP;Rio de Janeiro/RJ;R02;419.8;455.24
+NF-100541;CTE-0000533;TransLog Express;2026-08-19;Curitiba/PR;São Paulo/SP;R09;617.9;555.53
+NF-100542;CTE-0000534;Norte Sul Fretes;2026-08-20;Campinas/SP;Curitiba/PR;R04;329.4;272.08
+NF-100543;CTE-0000535;TransLog Express;2026-08-20;Curitiba/PR;São Paulo/SP;R09;138.9;124.59
+NF-100544;CTE-0000536;Norte Sul Fretes;2026-08-22;Campinas/SP;São Paulo/SP;R01;171.2;69.57
+NF-100545;CTE-0000537;Atlântico Logística;2026-08-22;Campinas/SP;Recife/PE;R07;310.6;1664.86
+NF-100546;CTE-0000538;TransLog Express;2026-08-22;Campinas/SP;São Paulo/SP;R01;632.5;211.34
+NF-100547;CTE-0000539;RodoFácil Transportes;2026-08-23;Curitiba/PR;São Paulo/SP;R09;259.6;221.87
+NF-100548;CTE-0000540;Veloz Cargas;2026-08-23;Campinas/SP;Porto Alegre/RS;R05;619.2;1402.14
+NF-100549;CTE-0000541;Veloz Cargas;2026-08-23;Campinas/SP;Recife/PE;R07;492.5;2525.74
+NF-100550;CTE-0000542;Veloz Cargas;2026-08-23;Campinas/SP;Belo Horizonte/MG;R03;404.1;604.93
+NF-100551;CTE-0000543;TransLog Express;2026-08-24;Campinas/SP;São Paulo/SP;R01;648.2;245.19
+NF-100552;CTE-0000544;RodoFácil Transportes;2026-08-24;Campinas/SP;Rio de Janeiro/RJ;R02;1296.6;1293.24
+NF-100553;CTE-0000545;Atlântico Logística;2026-08-25;Campinas/SP;Belo Horizonte/MG;R03;165.5;228.58
+NF-100554;CTE-0000546;Veloz Cargas;2026-08-25;Campinas/SP;Belo Horizonte/MG;R03;730.7;965.61
+NF-100555;CTE-0000547;Veloz Cargas;2026-08-25;Campinas/SP;Rio de Janeiro/RJ;R02;627.0;776.03
+NF-100556;CTE-0000548;Atlântico Logística;2026-08-25;Campinas/SP;Salvador/BA;R06;338.8;1364.45
+NF-100557;CTE-0000549;Veloz Cargas;2026-08-27;Campinas/SP;Salvador/BA;R06;340.4;1311.41
+NF-100558;CTE-0000550;RodoFácil Transportes;2026-08-28;Campinas/SP;Curitiba/PR;R04;962.6;821.61
+NF-100559;CTE-0000551;TransLog Express;2026-08-29;Curitiba/PR;São Paulo/SP;R09;455.0;408.62
+NF-100560;CTE-0000552;RodoFácil Transportes;2026-08-29;Curitiba/PR;Porto Alegre/RS;R10;277.7;383.27
+NF-100561;CTE-0000553;RodoFácil Transportes;2026-08-30;Curitiba/PR;São Paulo/SP;R09;1505.8;1286.15
+NF-100562;CTE-0000554;Veloz Cargas;2026-08-31;Campinas/SP;Goiânia/GO;R08;232.1;518.31
+NF-100563;CTE-0000555;Veloz Cargas;2026-08-31;Campinas/SP;Rio de Janeiro/RJ;R02;1061.5;1225.95
+NF-100564;CTE-0000556;Veloz Cargas;2026-08-31;Campinas/SP;Belo Horizonte/MG;R03;605.6;799.91
+NF-100565;CTE-0000557;Veloz Cargas;2026-09-01;Campinas/SP;Rio de Janeiro/RJ;R02;322.9;372.94
+NF-100566;CTE-0000558;Veloz Cargas;2026-09-01;Campinas/SP;Goiânia/GO;R08;695.2;1517.99
+NF-100567;CTE-0000559;TransLog Express;2026-09-02;Campinas/SP;Rio de Janeiro/RJ;R02;651.6;684.22
+NF-100568;CTE-0000560;RodoFácil Transportes;2026-09-02;Campinas/SP;Belo Horizonte/MG;R03;99.5;122.58
+NF-100569;CTE-0000561;RodoFácil Transportes;2026-09-02;Curitiba/PR;Porto Alegre/RS;R10;131.4;173.25
+NF-100570;CTE-0000562;Veloz Cargas;2026-09-03;Campinas/SP;Salvador/BA;R06;440.2;1695.78
+NF-100571;CTE-0000563;Veloz Cargas;2026-09-03;Campinas/SP;Goiânia/GO;R08;1449.6;2825.79
+NF-100572;CTE-0000564;Norte Sul Fretes;2026-09-03;Campinas/SP;São Paulo/SP;R01;830.0;288.47
+NF-100573;CTE-0000565;TransLog Express;2026-09-03;Curitiba/PR;São Paulo/SP;R09;455.2;409.25
+NF-100574;CTE-0000566;RodoFácil Transportes;2026-09-03;Campinas/SP;Porto Alegre/RS;R05;331.9;813.15
+NF-100575;CTE-0000567;Norte Sul Fretes;2026-09-04;Campinas/SP;Recife/PE;R07;1412.5;6058.00
+NF-100576;CTE-0000568;TransLog Express;2026-09-05;Curitiba/PR;São Paulo/SP;R09;536.2;481.55
+NF-100577;CTE-0000569;Veloz Cargas;2026-09-05;Campinas/SP;Salvador/BA;R06;82.5;341.04
+NF-100578;CTE-0000570;Norte Sul Fretes;2026-09-05;Campinas/SP;Curitiba/PR;R04;833.4;688.95
+NF-100579;CTE-0000571;Veloz Cargas;2026-09-05;Campinas/SP;Porto Alegre/RS;R05;1221.6;2765.36
+NF-100580;CTE-0000572;RodoFácil Transportes;2026-09-06;Campinas/SP;Curitiba/PR;R04;653.4;557.71
+NF-100581;CTE-0000573;RodoFácil Transportes;2026-09-06;Campinas/SP;São Paulo/SP;R01;2096.5;752.85
+NF-100582;CTE-0000574;RodoFácil Transportes;2026-09-06;Campinas/SP;Goiânia/GO;R08;283.0;442.10
+NF-100583;CTE-0000575;TransLog Express;2026-09-07;Curitiba/PR;São Paulo/SP;R09;523.3;470.12
+NF-100584;CTE-0000576;Veloz Cargas;2026-09-08;Campinas/SP;Goiânia/GO;R08;1365.1;2661.39
+NF-100585;CTE-0000577;TransLog Express;2026-09-08;Campinas/SP;Curitiba/PR;R04;4346.7;3907.12
+NF-100586;CTE-0000578;Atlântico Logística;2026-09-09;Campinas/SP;Salvador/BA;R06;83.5;356.38
+NF-100587;CTE-0000579;Veloz Cargas;2026-09-10;Campinas/SP;Belo Horizonte/MG;R03;433.7;573.11
+NF-100588;CTE-0000580;TransLog Express;2026-09-10;Campinas/SP;São Paulo/SP;R01;1038.4;438.50
+NF-100589;CTE-0000581;Veloz Cargas;2026-09-10;Campinas/SP;Rio de Janeiro/RJ;R02;184.1;212.62
+NF-100590;CTE-0000582;RodoFácil Transportes;2026-09-11;Curitiba/PR;São Paulo/SP;R09;537.3;458.49
+NF-100591;CTE-0000583;Atlântico Logística;2026-09-11;Campinas/SP;Curitiba/PR;R04;390.7;403.73
+NF-100592;CTE-0000584;RodoFácil Transportes;2026-09-12;Campinas/SP;Recife/PE;R07;602.7;3344.99
+NF-100593;CTE-0000585;RodoFácil Transportes;2026-09-14;Campinas/SP;Curitiba/PR;R04;474.5;405.51
+NF-100594;CTE-0000586;RodoFácil Transportes;2026-09-14;Campinas/SP;Belo Horizonte/MG;R03;1007.7;1149.81
+NF-100595;CTE-0000587;TransLog Express;2026-09-15;Curitiba/PR;São Paulo/SP;R09;1891.7;1700.37
+NF-100596;CTE-0000588;Atlântico Logística;2026-09-16;Campinas/SP;Salvador/BA;R06;146.3;589.19
+NF-100597;CTE-0000589;TransLog Express;2026-09-16;Campinas/SP;São Paulo/SP;R01;107.9;75.55
+NF-100598;CTE-0000590;RodoFácil Transportes;2026-09-17;Curitiba/PR;São Paulo/SP;R09;601.0;513.40
+NF-100599;CTE-0000591;TransLog Express;2026-09-17;Campinas/SP;Porto Alegre/RS;R05;1209.7;2489.18
+NF-100600;CTE-0000592;TransLog Express;2026-09-17;Campinas/SP;Belo Horizonte/MG;R03;249.7;299.96
+NF-100601;CTE-0000593;Atlântico Logística;2026-09-18;Campinas/SP;Porto Alegre/RS;R05;1236.7;2672.08
+NF-100602;CTE-0000594;Atlântico Logística;2026-09-18;Campinas/SP;Curitiba/PR;R04;420.5;434.52
+NF-100603;CTE-0000595;Veloz Cargas;2026-09-18;Campinas/SP;Recife/PE;R07;584.9;2999.32
+NF-100604;CTE-0000596;TransLog Express;2026-09-19;Campinas/SP;Curitiba/PR;R04;320.0;287.67
+NF-100605;CTE-0000597;Atlântico Logística;2026-09-19;Campinas/SP;Curitiba/PR;R04;131.9;136.30
+NF-100606;CTE-0000598;Veloz Cargas;2026-09-19;Campinas/SP;Porto Alegre/RS;R05;1593.9;3957.93
+NF-100607;CTE-0000599;Atlântico Logística;2026-09-21;Campinas/SP;Porto Alegre/RS;R05;1145.1;2474.08
+NF-100608;CTE-0000600;Veloz Cargas;2026-09-24;Campinas/SP;Porto Alegre/RS;R05;295.7;669.63
+NF-100609;CTE-0000601;Norte Sul Fretes;2026-09-24;Campinas/SP;Recife/PE;R07;616.9;2646.19
+NF-100610;CTE-0000602;RodoFácil Transportes;2026-09-24;Curitiba/PR;São Paulo/SP;R09;182.8;155.70
+NF-100611;CTE-0000603;Atlântico Logística;2026-09-24;Campinas/SP;Belo Horizonte/MG;R03;162.3;205.01
+NF-100612;CTE-0000604;Veloz Cargas;2026-09-25;Campinas/SP;Recife/PE;R07;335.8;1722.19
+NF-100613;CTE-0000605;RodoFácil Transportes;2026-09-26;Campinas/SP;Belo Horizonte/MG;R03;105.7;130.19
+NF-100614;CTE-0000606;Atlântico Logística;2026-09-27;Curitiba/PR;Porto Alegre/RS;R10;499.4;726.62
+NF-100615;CTE-0000607;Veloz Cargas;2026-09-27;Campinas/SP;Rio de Janeiro/RJ;R02;1194.8;1380.03
+NF-100616;CTE-0000608;Veloz Cargas;2026-09-28;Campinas/SP;Goiânia/GO;R08;290.2;609.99
+NF-100617;CTE-0000609;Veloz Cargas;2026-09-29;Campinas/SP;Porto Alegre/RS;R05;494.6;1119.41
+NF-100618;CTE-0000610;RodoFácil Transportes;2026-09-29;Campinas/SP;Goiânia/GO;R08;259.7;437.23
+NF-100619;CTE-0000611;TransLog Express;2026-09-29;Campinas/SP;Porto Alegre/RS;R05;451.0;928.36
+NF-100620;CTE-0000612;TransLog Express;2026-09-30;Campinas/SP;São Paulo/SP;R01;47.5;75.78
