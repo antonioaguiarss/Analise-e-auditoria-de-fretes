@@ -4,7 +4,7 @@ Projeto de portfólio que simula o trabalho de **conferir se as transportadoras 
 
 > **Todos os dados são fictícios**, gerados por script com semente fixa. Nenhuma empresa, preço ou fatura real foi usada.
 
-## O problema (em linguagem simples)
+## O problema
 
 Todo mês as transportadoras mandam faturas. Cada fatura diz quanto cobrar por um embarque. Em contrato, porém, já ficou combinado **quanto deveria custar** aquele embarque. Conferir isso fatura por fatura, à mão, não funciona quando há centenas de linhas. O projeto automatiza essa conferência e responde:
 
@@ -13,7 +13,7 @@ Todo mês as transportadoras mandam faturas. Cada fatura diz quanto cobrar por u
 - Houve embarque **cobrado duas vezes**?
 - Alguém cobrou uma rota que **nem existe no contrato**?
 
-## Conceitos usados (glossário rápido)
+## Conceitos usados
 
 | Termo | O que significa |
 |---|---|
